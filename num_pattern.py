@@ -1,0 +1,4 @@
+# to draw the number pattern
+
+for i in range(10):
+    print(str(i)*i)
